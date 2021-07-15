@@ -547,3 +547,39 @@ main {
   grid-column: 2/3;
   grid-row: 5/6;
 }
+
+
+.appOverview {
+  width: 80%;
+  margin: auto;
+  padding-bottom: 10rem;
+}
+
+.appOverview__divContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.appOverview__title {
+  text-align: center;
+  font-size: 3.2rem;
+  color: var(--primary-color);
+  margin: 4rem auto;
+}
+
+.appOverview__div {
+  display: flex;
+  flex-direction: column;
+}
+
+.appOverview__div-img {
+  margin: 2rem auto;
+  align-self: center;
+  width: 20rem;
+}
+.appOverview__div-text {
+  font-size: var(--font-text);
+  text-align: center;
+  width: 30rem;
+}
