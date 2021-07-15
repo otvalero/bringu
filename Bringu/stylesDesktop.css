@@ -445,7 +445,7 @@ main {
 }
 
 .comparisonSection__title {
-  padding: 4rem 0;
+  padding-bottom: 4rem;
   color: var(--contrast-color);
   font-size: 3.2rem;
   text-align: center;
