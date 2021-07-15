@@ -247,7 +247,7 @@ main {
 
 .videoSection__text {
   font-size: var(--font-text);
-  color: var(--contrast-color);
+  color: var(--white-color);
   margin-bottom: 4rem;
 }
 
